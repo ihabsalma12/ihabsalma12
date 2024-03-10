@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 ### 📂 My Repos:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihabsalma12&repo=handasa-rides)](https://github.com/ihabsalma12/Handasa-Rides)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihabsalma12&repo=handasa-drives)](https://github.com/ihabsalma12/Handasa-Drives)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihabsalma12&repo=CSE485-Leaf-Classification)](https://github.com/ihabsalma12/CSE485-Leaf-Classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihabsalma12&repo=Distributed-Project)](https://github.com/ihabsalma12/Distributed-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihabsalma12&repo=CSE338)](https://github.com/ihabsalma12/CSE338)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihabsalma12&repo=Automata_project )](https://github.com/ihabsalma12/Automata_project )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ihabsalma12&repo=CSE472-user-drawn-graph )](https://github.com/ihabsalma12/CSE472-user-drawn-graph ) 
 
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ihabsalma12&theme=tokyonight&background=000000)](https://github.com/DenverCoder1/github-readme-streak-stats)
